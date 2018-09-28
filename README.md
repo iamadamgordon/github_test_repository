@@ -8,6 +8,6 @@ This is a test of the secondary branch.
 
 This is a second test of the secondary branch. 
 
-I deleted a live above to test out deletions. 
+I deleted a line above to test out deletions. 
 
-
+Hi Lydia!
